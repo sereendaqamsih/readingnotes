@@ -1,3 +1,3 @@
 # reading notes
 
-## [read01]()
+## [read01](https://sereendaqamsih.github.io/readingnotes/read01)
