@@ -12,7 +12,7 @@
 
 The growth mindest| the fixed mindest
 ------------| -------------
-[Success of others](https://sereendaqamsih.github.io/readingnotes/sucsses of other)| stick to what you know
+[Success of others](https://sereendaqamsih.github.io/readingnotes/succes)| stick to what you know
 [Challenges](https://sereendaqamsih.github.io/readingnotes/chalenge)| avoid challenges
 [Effort](https://sereendaqamsih.github.io/readingnotes/effort)| failure is the limit of abilities
  
