@@ -1,6 +1,7 @@
 # Reading notes
 
-## Welcome to my website, this is Sereen aldaqamsih electrical power engineer. 
+## Welcome to my website, this is Sereen aldaqamsih electrical power engineer,graduated from Yarmouk university 2014.
+<hr />
 
 ### Code 102 Reading Notes
 
@@ -9,15 +10,18 @@
  [growthmind](https://sereendaqamsih.github.io/readingnotes/growthmindest) | [read03](https://sereendaqamsih.github.io/readingnotes/read03)
  [read04](https://sereendaqamsih.github.io/readingnotes/read04) | [read05](https://sereendaqamsih.github.io/readingnotes/read05)
 [read06](https://sereendaqamsih.github.io/readingnotes/read06)  |[read07](https://sereendaqamsih.github.io/readingnotes/read07)
-[read08](https://sereendaqamsih.github.io/readingnotes/read08)  |[read09]
+[read08](https://sereendaqamsih.github.io/readingnotes/read08)  |
+
+
+<hr />
 
 
 
 ### Code 201 Reading Notes
  
-[read1](https://sereendaqamsih.github.io/readingnotes/read1)  |[read2]
+[Read1](https://sereendaqamsih.github.io/readingnotes/read1)  |[Read2](https://sereendaqamsih.github.io/readingnotes/read2) 
 ------------ | -------------
- [read3] | [read4]
+ [Read3](https://sereendaqamsih.github.io/readingnotes/read3) | [read4]
  [read5] | [read6]
 [read7]  |[read8]
 [read9] | [read10]
@@ -25,5 +29,6 @@
 [read13]  |[read14]
 [read15] | 
 
+<hr />
 
 
