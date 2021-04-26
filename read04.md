@@ -1,6 +1,6 @@
 # Read04
 * be orgnized by keep the files organize, your JavaScript files can live in a folder called scripts,javascript,or js. 
-* When you want to use JavaScript with a web page, you use the HTML <script> element to tell the browser it is coming across a script.Its s re attribute tells people where the JavaScript file is stored. 
+* When you want to use JavaScript with a web page, you use the HTML < script> element to tell the browser it is coming across a script.Its s re attribute tells people where the JavaScript file is stored. 
 * If you view the source code of the page in the browser,the JavaScript will not have changed the HTML,because the script works with the model of the web page that the browser has created. 
 * Java language:
   - A script is a series of instructions that a computer can follow one-by-one.Each individual instruction or step is known as a statement.Statements should end with a semicolon.
