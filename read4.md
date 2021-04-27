@@ -7,13 +7,16 @@
 
   - Every page and every image on a website has a URL (or Uniform Resource Locator). The URL is made up of the domain name
 followed by the path to that page or image.
+
+
 - |Relative Link Type |
-   ---------------------
+   |---------------------|
    |Same Folder:To link to a file in the same folder, just use the file name. (Nothing else is needed.) |
    |Child Folder:For a child folder, use the name of the child folder, followed by a forward slash, then the file name.|
    |Grandchild Folder: Use the name of the child folder, followed by a forward slash, then the name of the grandchild folder, followed by another forward slash, then the file name.|
    |Parent Folder:Use ../ to indicate the folder above the current one,then follow it with the file name.|
    GrandParent Folder:Repeat the ../ to indicate that you want to go up two folders (rather than one), then follow it with the file name.|
+
 
 - mailto: email-links.html HTML To create a link that starts up the user's email program and addresses an email to a specified email address, you use the < a> element. However, this time the value of the href attribute starts with mailto: and is followed by the email address you want the email to be sent to.
 - you want a link to open in a new window, you can use the target attribute on the opening < a> tag. The value of this attribute should be _blank. One of the most common reasons a web page author might want a link to be opened in a new window is if it points to another website. In such cases, they hope the user will return to the window containing their site after finishing looking at the other one.
@@ -22,9 +25,10 @@ followed by the path to that page or image.
 <hr />
 <h4>CSS:</h4>
 
-- Controlling the Position of Elements positioning schemes that allow you to control the layout of a page: 
+- Controlling the Position of Elements positioning schemes that allow you to control the layout of a page:
+
 |Relative Link Type ||
-   ---------------------|--------------|
+|---------------------|--------------|
 | Normal flow |each block-level element sits on top of the next one. Since this is the default way in which browsers treat HTML elements, you do not need a CSS property to indicate that elements should appear in normal flow, but the syntax would be:position: static;.|
 |Relative Positioning|Relative positioning moves an element in relation to where it would have been in normal flow.|
 |Absolute positioning|When the position property is given a value of absolute, the box is taken out of normal flow and no longer affects the position of other elements on the page. (They act like it is not there.)The box offset properties (top or bottom and left or right)specify where the element should appear in relation to its containing element.You specify the positioning scheme using the position property in CSS You can also float elements using the float property.|
