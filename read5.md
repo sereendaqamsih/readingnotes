@@ -90,7 +90,10 @@ links that have been clicked on.
 ##### Selectors:
 ![selector](img/selector.PNG)
 
-<address> selector image source: w3school </address>
+<address>
+ selector image source: w3school.
+ subject source: Html and css book.
+ </address>
 
 <hr />
 
@@ -103,6 +106,7 @@ links that have been clicked on.
 |PNG|- PNG is a lossless image format using DEFLATE compression. No data is lost during compression and no compression artefacts are introduced in the image.PNG images support transparency in two ways — inserting an alpha channel that allows partial transparency or by declaring a single colour as transparent (index transparency).- PNG images mainly have two modes — PNG8 and PNG24. PNG8 can support upto 256 colours whereas PNG24 can handle upto 16 million colours like a JPEG image. Use PNG8 for simple shapes with fewer colours and PNG24 for high quality, complex logos and shapes with rounded corners on a transparent background.|
 |GIF|- GIF is also a lossless image format that uses LZW compression algorithm. It was favoured over PNG for simple graphics in websites in its early days because the support of PNG was still growing.-GIF images support transparency by declaring a single colour in the colour palette as transparent (index transparency).- GIF images are limited to 256 colours. If index transparency is used, then one of these 256 colours is assigned as transparent and the remaining 255 are used for other colours.|
 
+[Article source](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)
 
 
 
