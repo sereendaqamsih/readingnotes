@@ -24,7 +24,7 @@
  [Read3](https://sereendaqamsih.github.io/readingnotes/read3) | [Read4](https://sereendaqamsih.github.io/readingnotes/read4)
  [Read5](https://sereendaqamsih.github.io/readingnotes/read5) | [Read6](https://sereendaqamsih.github.io/readingnotes/read6)
 [Read7](https://sereendaqamsih.github.io/readingnotes/read7)  |[Read8](https://sereendaqamsih.github.io/readingnotes/read8)
-[Read9](https://sereendaqamsih.github.io/readingnotes/read9) | [read10]
+[Read9](https://sereendaqamsih.github.io/readingnotes/read9) | [Read10](https://sereendaqamsih.github.io/readingnotes/read10)
  [read11] | [read12]
 [read13]  |[read14]
 [read15] | 
