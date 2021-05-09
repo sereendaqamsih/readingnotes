@@ -24,8 +24,13 @@ into the text field. Its value is the number of characters they may enter.
 ### Lists, Tables & Forms:
 - The list-style-type property allows you to control the shape or style of a bullet point (also 
 known as a marker).
+- Unordered Lists For an unordered list you can use
+the following values:none,disc,circle,square.
+- Ordered Lists For an ordered (numbered) list you can use the following values:decimal,decimal-leading-zero,lower-alpha,upper-alpha,lower-roman,upper-roman.
 - You can specify an image to act as a bullet point using the list-style-image property.The value starts with the letters url and is followed by a pair of parentheses. Inside theparentheses, the path to the image is given inside double quotes. This property can be used on rules that apply to the < ul> and < li> elements.
 - Lists are indented into the page by default and the list-styleposition property indicates whether the marker should appear on the inside or the outside of the box containing the main points.(inside,outside).
+- list-style:As with several of the other CSS properties, there is a property that acts as a shorthand for list styles.
+
 - width: to set the width of the table 
 - padding to set the space between the border of each table cell and its content.
 - text-transform to convert the content of the table headers to uppercase
