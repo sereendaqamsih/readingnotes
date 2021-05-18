@@ -26,7 +26,7 @@
 [Read7](https://sereendaqamsih.github.io/readingnotes/read7)  |[Read8](https://sereendaqamsih.github.io/readingnotes/read8)
 [Read9](https://sereendaqamsih.github.io/readingnotes/read9) | [Read10](https://sereendaqamsih.github.io/readingnotes/read10)
  [Read11](https://sereendaqamsih.github.io/readingnotes/read11) | [Read12](https://sereendaqamsih.github.io/readingnotes/read12)
-[read13]  |[read14]
+[Read13](https://sereendaqamsih.github.io/readingnotes/read13)  |[read14]
 [read15] | 
 
 <hr />
