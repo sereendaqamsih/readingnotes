@@ -34,6 +34,6 @@
 
 ### Code 301 Intermediate Software Development Reading Notes
 
-[Read1](https://sereendaqamsih.github.io/readingnotes/read3011)  |[Read2] 
+[Read1](https://sereendaqamsih.github.io/readingnotes/read3011)  |[Read2](https://sereendaqamsih.github.io/readingnotes/read3012)
 ------------ | -------------
  [Read3]| [Read4]
