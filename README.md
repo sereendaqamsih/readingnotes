@@ -38,3 +38,4 @@
 ------------ | -------------
  [Read3](https://sereendaqamsih.github.io/readingnotes/read3013)| [Read4](https://sereendaqamsih.github.io/readingnotes/read3014)
 [Read5](https://sereendaqamsih.github.io/readingnotes/read3015)| [Read6](https://sereendaqamsih.github.io/readingnotes/read3016)
+[Read7](https://sereendaqamsih.github.io/readingnotes/read3017)| [Read8]
